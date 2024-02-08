@@ -1,0 +1,531 @@
+[{
+  "_id": {
+    "$oid": "65c4f89e23d7612a93f0cdec"
+  },
+  "results": [
+    {
+      "fsq_id": "5b8521d489e490002cefef18",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 515,
+      "geocodes": {
+        "main": {
+          "latitude": 41.397168,
+          "longitude": 2.183123
+        },
+        "roof": {
+          "latitude": 41.397168,
+          "longitude": 2.183123
+        }
+      },
+      "link": "/v3/places/5b8521d489e490002cefef18",
+      "location": {
+        "address": "Calle D'Ausiàs Marc, 151",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "formatted_address": "Calle D'Ausiàs Marc, 151, 08013 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08013",
+        "region": "Catalunya"
+      },
+      "name": "Three Marks Coffee",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5ba397333fcee8002ce9d8bc",
+      "categories": [
+        {
+          "id": 13037,
+          "name": "Cafeteria",
+          "short_name": "Cafeteria",
+          "plural_name": "Cafeterias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/cafeteria_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 522,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.399274,
+          "longitude": 2.195294
+        },
+        "main": {
+          "latitude": 41.399175,
+          "longitude": 2.195368
+        },
+        "roof": {
+          "latitude": 41.399175,
+          "longitude": 2.195368
+        }
+      },
+      "link": "/v3/places/5ba397333fcee8002ce9d8bc",
+      "location": {
+        "address": "Calle de Pallars, 154",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Calle de Pallars, 154, 08005 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08005",
+        "region": "Catalunya"
+      },
+      "name": "Cafeteria Industrial",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "556d6217498ef50c5d323048",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 579,
+      "geocodes": {
+        "main": {
+          "latitude": 41.397977,
+          "longitude": 2.195589
+        },
+        "roof": {
+          "latitude": 41.397977,
+          "longitude": 2.195589
+        }
+      },
+      "link": "/v3/places/556d6217498ef50c5d323048",
+      "location": {
+        "address": "Calle de Pujades, 95",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "C. de Badajoz",
+        "formatted_address": "Calle de Pujades, 95 (C. de Badajoz), 08005 Barcelona",
+        "locality": "Barcelona",
+        "postcode": "08005"
+      },
+      "name": "Nømad Roaster's Home",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5f62369046ae0020080bac13",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Café",
+          "short_name": "Café",
+          "plural_name": "Cafés",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 579,
+      "geocodes": {
+        "main": {
+          "latitude": 41.404179,
+          "longitude": 2.191413
+        }
+      },
+      "link": "/v3/places/5f62369046ae0020080bac13",
+      "location": {
+        "address": "Avenida Diagonal, 197",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avenida Diagonal, 197, 08018 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08018",
+        "region": "Catalunya"
+      },
+      "name": "Buenas Migas",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "55c4c7b0498e0593fc56c435",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 630,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.401973,
+          "longitude": 2.195526
+        },
+        "main": {
+          "latitude": 41.402197,
+          "longitude": 2.195696
+        },
+        "roof": {
+          "latitude": 41.402197,
+          "longitude": 2.195696
+        }
+      },
+      "link": "/v3/places/55c4c7b0498e0593fc56c435",
+      "location": {
+        "address": "Carrer de Roc Boronat, 102",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "Sancho d'Avila/ Almogavers",
+        "formatted_address": "Carrer de Roc Boronat, 102 (Sancho d'Avila/ Almogavers), 08018 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08018",
+        "region": "Catalunya"
+      },
+      "name": "Súper coffee & food store",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "53c8273f498e6454bc39acad",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 667,
+      "geocodes": {
+        "main": {
+          "latitude": 41.404462,
+          "longitude": 2.193379
+        },
+        "roof": {
+          "latitude": 41.404462,
+          "longitude": 2.193379
+        }
+      },
+      "link": "/v3/places/53c8273f498e6454bc39acad",
+      "location": {
+        "address": "Avinguda Diagonal, 177",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "",
+        "formatted_address": "Avinguda Diagonal, 177, 08018 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08018",
+        "region": "Catalunya"
+      },
+      "name": "Daniel Café",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "4c9b0a2cd4b1b1f7ad69d535",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4c54c0-d68a-012e-5619-003048cad9da",
+          "name": "Starbucks"
+        }
+      ],
+      "closed_bucket": "Unsure",
+      "distance": 676,
+      "geocodes": {
+        "main": {
+          "latitude": 41.404985,
+          "longitude": 2.192439
+        },
+        "roof": {
+          "latitude": 41.404985,
+          "longitude": 2.192439
+        }
+      },
+      "link": "/v3/places/4c9b0a2cd4b1b1f7ad69d535",
+      "location": {
+        "address": "Avinguda Diagonal, 208",
+        "address_extended": "Westfield Glòries",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "Westfield Glòries",
+        "formatted_address": "Avinguda Diagonal, 208 (Westfield Glòries), 08018 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08018",
+        "region": "Catalunya"
+      },
+      "name": "Starbucks",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4cb0831839458cfa814a03a0",
+          "categories": [
+            {
+              "id": 17114,
+              "name": "Shopping Mall",
+              "short_name": "Mall",
+              "plural_name": "Shopping Malls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Glòries Multicines"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5e207665882c5c0009c914a6",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13040,
+          "name": "Dessert Shop",
+          "short_name": "Desserts",
+          "plural_name": "Dessert Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 719,
+      "geocodes": {
+        "main": {
+          "latitude": 41.405483,
+          "longitude": 2.191485
+        }
+      },
+      "link": "/v3/places/5e207665882c5c0009c914a6",
+      "location": {
+        "address": "Avinguda Diagonal, 208",
+        "address_extended": "Westfield Glòries",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "Westfield Glòries",
+        "formatted_address": "Avinguda Diagonal, 208 (Westfield Glòries), 08018 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08018",
+        "region": "Catalunya"
+      },
+      "name": "Manolo Bakes",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4cb0831839458cfa814a03a0",
+          "categories": [
+            {
+              "id": 17114,
+              "name": "Shopping Mall",
+              "short_name": "Mall",
+              "plural_name": "Shopping Malls",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/mall_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Glòries Multicines"
+        }
+      },
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5495501f498e4b62500367d2",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Café",
+          "short_name": "Café",
+          "plural_name": "Cafés",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13040,
+          "name": "Dessert Shop",
+          "short_name": "Desserts",
+          "plural_name": "Dessert Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 752,
+      "geocodes": {
+        "main": {
+          "latitude": 41.404322,
+          "longitude": 2.194966
+        },
+        "roof": {
+          "latitude": 41.404322,
+          "longitude": 2.194966
+        }
+      },
+      "link": "/v3/places/5495501f498e4b62500367d2",
+      "location": {
+        "address": "Llacuna, 124-140",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "Carrer de la Llacuna",
+        "formatted_address": "Llacuna, 124-140 (Carrer de la Llacuna), 08018 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08018",
+        "region": "Catalunya"
+      },
+      "name": "El Fornet d'en Rossend",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "fsq_id": "5af2b83ee7a237002c007e3c",
+      "categories": [
+        {
+          "id": 13377,
+          "name": "Vegan and Vegetarian Restaurant",
+          "short_name": "Vegan and Vegetarian Restaurant",
+          "plural_name": "Vegan and Vegetarian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "VeryLikelyOpen",
+      "distance": 763,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 41.402429,
+          "longitude": 2.197447
+        },
+        "main": {
+          "latitude": 41.402328,
+          "longitude": 2.197571
+        },
+        "roof": {
+          "latitude": 41.402328,
+          "longitude": 2.197571
+        }
+      },
+      "link": "/v3/places/5af2b83ee7a237002c007e3c",
+      "location": {
+        "address": "Calle Pere IV, 168",
+        "admin_region": "Cataluña",
+        "country": "ES",
+        "cross_street": "C. Llacuna",
+        "formatted_address": "Calle Pere IV, 168 (C. Llacuna), 08005 Barcelona Catalunya",
+        "locality": "Barcelona",
+        "postcode": "08005",
+        "region": "Catalunya"
+      },
+      "name": "Little Fern",
+      "related_places": {},
+      "timezone": "Europe/Madrid"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 41.3992766,
+          "longitude": 2.1890409
+        },
+        "radius": 22000
+      }
+    }
+  }
+}]
