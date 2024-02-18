@@ -1,15 +1,11 @@
 Category,Type,Color,Icon Color,Icon,Prefix,Name,Address,Latitude,Longitude
-School,Public School,blue,black,graduation-cap,fa,The Primary School,"2086 Clarke Ave, East Palo Alto",37.4622367,-122.1339035
-School,Public School,blue,black,graduation-cap,fa,East Palo Alto Academy,"1050 Myrtle St, East Palo Alto",37.4631632,-122.1318785
-School,Public School,blue,black,graduation-cap,fa,"TIDE Academy, Sequoia Union High School District","150 Jefferson Dr, Menlo Park",37.4822574,-122.1741619
-School,Public School,blue,black,graduation-cap,fa,Belle Haven School,"415 Ivy Dr, Menlo Park",37.4769402,-122.1612329
-School,Public School,blue,black,graduation-cap,fa,Duveneck Elementary School,"705 Alester Ave, Palo Alto",37.4500658,-122.134475
-School,Public School,blue,black,graduation-cap,fa,The Peninsula School,"920 Peninsula Way, Menlo Park",37.4664082,-122.1662765
-School,Public School,blue,black,graduation-cap,fa,Laurel School Upper Campus,"275 Elliott Dr, Menlo Park",37.4600061,-122.1490969
-School,Public School,blue,black,graduation-cap,fa,KIPP Valiant Community Prep,"620 Willow Rd, Menlo Park",37.4625891,-122.1576084
-School,Public School,blue,black,graduation-cap,fa,Laurel School Lower Campus,"95 Edge Rd, Atherton",37.4667323,-122.1719548
-School,Public School,blue,black,graduation-cap,fa,Mid-Peninsula High School,"1340 Willow Rd, Menlo Park",37.476431,-122.1520301
-School,Public School,blue,black,graduation-cap,fa,Los Robles Ronald McNair Academy,"2033 Pulgas Ave, East Palo Alto",37.4624288,-122.1310714
-School,Public School,blue,black,graduation-cap,fa,Costano Elementary School,"2695 Fordham St, East Palo Alto",37.4776061,-122.1386422
-School,Public School,blue,black,graduation-cap,fa,EPA Educational Center,"763 Green St, East Palo Alto",37.4647089,-122.1381425
-School,Public School,blue,black,graduation-cap,fa,KIPP Esperanza High School,"1039 Garden St, East Palo Alto",37.4675362,-122.1318462
+School,Public School,blue,black,graduation-cap,fa,Sir William Burrough Primary School,"100 Salmon Ln, London",51.5137286,-0.0341361
+School,Public School,blue,black,graduation-cap,fa,Cyril Jackson Primary School (South Building),"Limehouse Causeway, London",51.50913449999999,-0.0281771
+School,Public School,blue,black,graduation-cap,fa,Blue Gate Fields Infant School,"King David Ln, London",51.510685,-0.054405
+School,Public School,blue,black,graduation-cap,fa,John Scurr Primary School,"Cephas St, London",51.52214619999999,-0.0521188
+School,Public School,blue,black,graduation-cap,fa,Mayflower Primary School,"Upper North St, London",51.5116936,-0.0198157
+School,Public School,blue,black,graduation-cap,fa,Manorfield Primary School,"Wyvis St, London",51.5183572,-0.0131425
+School,Public School,blue,black,graduation-cap,fa,The Clara Grant Primary School,"Knapp Rd, London",51.5218007,-0.0197056
+School,Public School,blue,black,graduation-cap,fa,Blue Gate Fields Junior School,"King David Ln, London",51.5104451,-0.0541774
+School,Public School,blue,black,graduation-cap,fa,Stepney All Saints School,"Stepney Way, London",51.516565,-0.0439255
+School,Public School,blue,black,graduation-cap,fa,Marathon Science School,"1-9 Evelyn St, London",51.4902024,-0.0420409
