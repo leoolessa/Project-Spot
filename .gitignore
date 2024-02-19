@@ -1,7 +1,7 @@
 info.txt
 .env
-examples
-test
+examples/*
+test/*
 
 
 
