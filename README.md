@@ -50,11 +50,11 @@ The project was divided into the following steps:
 
 5. **Decision Making:** Chose Barcelona as the preferred city based on data analysis and visualization.
 
-6. **Final Location:** Identified approximate locations within Barcelona that meet the specified criteria.
+6. **Final Location:** Identified approximate locations within Barcelona, London and Silicon Valley that meet the specified criteria.
 
 ## Implementation
 
-The provided code in the Jupyter Notebook covers the entire process, including data extraction, analysis, map creation, and decision-making. The resulting map is saved as `barcelona_map.html`.
+The provided code in the Jupyter Notebook covers the entire process, including data extraction, analysis, map creation, and decision-making. The resulting map is saved as `city_name_map.html`.
 
 ## How to Use
 
@@ -64,10 +64,12 @@ The provided code in the Jupyter Notebook covers the entire process, including d
 
 3. Review the exported MongoDB collections for further insights.
 
-4. Refer to the generated HTML map (`barcelona_map.html`) for a visual representation of the chosen location.
+4. Refer to the generated HTML map (`city_name_map.html`) for a visual representation of the chosen location.
 
 ## Conclusion
 
 Barcelona was selected as the most suitable city for the new company offices, considering the specified criteria. The final location within Barcelona provides a balanced mix of amenities and preferences for the diverse group of employees.
 
 Feel free to adapt the code and criteria to explore other cities or refine the decision-making process based on your specific requirements.
+
+[Click here to view the project presentation on Canva](https://www.canva.com/design/DAF8nXjfV00/jr7Y7O75Ts3WvyPVG2jbiw/edit)
